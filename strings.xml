@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragments Route Plotter</string>
+    <string name="def_intspeed">0.</string>
+    <string name="def_tenthsspeed">0 km/h</string>
+    <string name="def_speed">0.0 km/h</string>
+    <string name="sw_recording">Log GPS Stamps</string>
+    <string name="def_lat_long">0.000000 N, 0.000000 E</string>
+    <string name="def_time_date">00:00:00.000 on 01/01/1970</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_start">Start</string>
+</resources>
