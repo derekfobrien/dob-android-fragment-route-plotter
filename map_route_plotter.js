@@ -20,7 +20,7 @@ var colourBands = new Array(
   "#8800ff",
   "#000000"
 );
-request.open("GET", "CorkToDublin.json", true);
+request.open("GET", "DublinToCork.json", true);
 request.onload = function() {
   points = JSON.parse(this.response);
   output = "";
